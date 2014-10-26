@@ -1,4 +1,4 @@
-internet-magazin
+nyiiwcity
 ================
 
-Internet shop on Yii
+Wide web project for people
